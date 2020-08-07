@@ -2,7 +2,10 @@
 
 # Microservices-demo-with-Docker-Compose
 
-This is a Linux Ubuntu implementation of the containerized web page Sock Shop (https://microservices-demo.github.io/)
+This is a Linux Ubuntu implementation of the containerized web page Sock Shop (https://microservices-demo.github.io/) and its load testing.
+
+
+
 **Prerequisites:**
 1. Have both Docker and Docker Compose installed. Reference:
 
@@ -84,6 +87,6 @@ No packages published
 -   [Blog](https://github.blog)
 -   [About](https://github.com/about)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg2MTM4ODkxLC0yMTA5NzU5NjAyLC0xMz
+eyJoaXN0b3J5IjpbNTE1MjU2MjU0LC0yMTA5NzU5NjAyLC0xMz
 A3Nzg1MzM1XX0=
 -->
