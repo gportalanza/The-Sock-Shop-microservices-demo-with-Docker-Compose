@@ -4,7 +4,7 @@
 
 This is a Linux Ubuntu implementation
 **Prerequisites:**
-#### 1. Have both Docker and Docker Compose installed. Reference:
+1. Have both Docker and Docker Compose installed. Reference:
 
 # [https://docs.docker.com/engine/install/#server](https://docs.docker.com/engine/install/#server)
 
@@ -86,5 +86,5 @@ No packages published
 -   [Blog](https://github.blog)
 -   [About](https://github.com/about)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDc3ODUzMzVdfQ==
+eyJoaXN0b3J5IjpbLTYxNTE4MjM0OSwtMTMwNzc4NTMzNV19
 -->
