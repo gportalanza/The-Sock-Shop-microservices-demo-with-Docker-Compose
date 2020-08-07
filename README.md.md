@@ -36,7 +36,7 @@ The load test packages a test script in a container for Locust that simulates us
 
 It should be run against the front-end service. The address and port of the frontend will depend on the platform.
 
-$ docker run --net=host weaveworksdemos/load-test -h $frontend-ip[:$port] -r 100 -c 2
+$ docker run --net=host weaveworksdemos/load-test -h \$frontend-ip[:$port] -r 100 -c 2
 
 The help command provides more details about the parameters.
 
@@ -85,7 +85,7 @@ No packages published
 -   [Blog](https://github.blog)
 -   [About](https://github.com/about)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgwMjc5NjUwLDMyODU1NzcyMywtNjU2MD
-gzOTU1LDM4MDI3OTY1MCw1MTUyNTYyNTQsMzg2MTM4ODkxXX0=
+eyJoaXN0b3J5IjpbOTAzOTM1Mzk0LDM4MDI3OTY1MCwzMjg1NT
+c3MjMsLTY1NjA4Mzk1NSw1MTUyNTYyNTQsMzg2MTM4ODkxXX0=
 
 -->
