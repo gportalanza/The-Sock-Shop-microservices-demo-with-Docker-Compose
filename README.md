@@ -6,7 +6,7 @@ This is a Linux Ubuntu implementation
 **Prerequisites:**
 1. Have both Docker and Docker Compose installed. Reference:
 
-# [https://docs.docker.com/engine/install/#server](https://docs.docker.com/engine/install/#server)
+[https://docs.docker.com/engine/install/#server](https://docs.docker.com/engine/install/#server)
 
 **Implementation:**
 1. Clone the application repository:
@@ -84,6 +84,6 @@ No packages published
 -   [Blog](https://github.blog)
 -   [About](https://github.com/about)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODgxNzk3MDksLTEzMDc3ODUzMzVdfQ
+eyJoaXN0b3J5IjpbLTE4MDI1NTQ5MDYsLTEzMDc3ODUzMzVdfQ
 ==
 -->
