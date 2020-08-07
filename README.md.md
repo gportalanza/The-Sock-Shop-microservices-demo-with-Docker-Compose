@@ -48,7 +48,7 @@ If your machine gets overloaded you can change the '-r 100' parameter above, as 
 
 ## About
 
-Linux local implementation of the open source web demo Sock Shop
+Linux local implementation of the open source web demo Sock Shop (https://microservices-demo.github.io/)
 
 ### Topics
 
@@ -83,6 +83,7 @@ No packages published
 -   [Blog](https://github.blog)
 -   [About](https://github.com/about)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU5NjQ4NiwzODAyNzk2NTAsMzI4NTU3Nz
-IzLC02NTYwODM5NTUsNTE1MjU2MjU0LDM4NjEzODg5MV19
+eyJoaXN0b3J5IjpbLTMxMTIzMTI5MiwzODAyNzk2NTAsMzI4NT
+U3NzIzLC02NTYwODM5NTUsNTE1MjU2MjU0LDM4NjEzODg5MV19
+
 -->
