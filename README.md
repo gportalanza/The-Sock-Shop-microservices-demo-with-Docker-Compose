@@ -1,6 +1,6 @@
 # The-Sock-Shop-microservices-demo-with-Docker-Compose
 # This is a Linux Ubuntu implementation
-# If after loading the local 
+
 # Prerequisites:
 # 1. Have both Docker and Docker Compose installed. Reference:
 # https://docs.docker.com/engine/install/#server
