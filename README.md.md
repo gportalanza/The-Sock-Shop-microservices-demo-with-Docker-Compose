@@ -49,7 +49,7 @@ If your machine gets overloaded you can change the '-r 100' parameter above, as 
 
 ## About
 
-No description, website, or topics provided.Linux local implementation of the open source web demo Sock Shop
+Linux local implementation of the open source web demo Sock Shop
 
 ### Topics
 
@@ -84,5 +84,5 @@ No packages published
 -   [Blog](https://github.blog)
 -   [About](https://github.com/about)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjIxNTc3NjMsMTI3MDcxOTAzMl19
+eyJoaXN0b3J5IjpbMzg2MTM4ODkxXX0=
 -->
