@@ -9,29 +9,29 @@ This is a Linux Ubuntu implementation
 # [https://docs.docker.com/engine/install/#server](https://docs.docker.com/engine/install/#server)
 
 **Implementation:**
-#### 1. Clone the application repository:
+1. Clone the application repository:
 
 $ git clone [https://github.com/microservices-demo/microservices-demo](https://github.com/microservices-demo/microservices-demo)
 
-# 2. Move to the directory microservices-demo:
+2. Move to the directory microservices-demo:
 
 $ cd microservices-demo
 
-# 3. Start the application using Docker Compose
+3. Start the application using Docker Compose:
 
 $ docker-compose -f deploy/docker-compose/docker-compose.yml up -d
 
-# Once the command exits the Sock Shop application should be up and running. Test it browsing:
+Once the command exits the Sock Shop application should be up and running. Test it browsing to:
 
 [http://localhost/](http://localhost/)
 
-# Once your testing ends, shut the application down:
+Once your testing ends, shut the application down:
 
 $ docker-compose -f deploy/docker-compose/docker-compose.yml down
 
-# Load test
+#### Load test
 
-# The load test packages a test script in a container for Locust that simulates user traffic to the Sock Shop webpage
+ The load test packages a test script in a container for Locust that simulates user traffic to the Sock Shop webpage
 
 # It should be run against the front-end service. The address and port of the frontend will depend on the platform.
 
@@ -86,5 +86,5 @@ No packages published
 -   [Blog](https://github.blog)
 -   [About](https://github.com/about)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNTE4MjM0OSwtMTMwNzc4NTMzNV19
+eyJoaXN0b3J5IjpbLTM4NTk1NDA4NiwtMTMwNzc4NTMzNV19
 -->
