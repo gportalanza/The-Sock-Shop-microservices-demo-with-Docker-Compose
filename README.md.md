@@ -4,8 +4,6 @@
 
 This is a Linux Ubuntu implementation of the containerized web page Sock Shop (https://microservices-demo.github.io/) and its load testing.
 
-
-
 **Prerequisites:**
 1. Have both Docker and Docker Compose installed. Reference:
 
@@ -87,5 +85,6 @@ No packages published
 -   [Blog](https://github.blog)
 -   [About](https://github.com/about)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE1MjU2MjU0LDM4NjEzODg5MV19
+eyJoaXN0b3J5IjpbMzgwMjc5NjUwLDUxNTI1NjI1NCwzODYxMz
+g4OTFdfQ==
 -->
